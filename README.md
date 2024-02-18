@@ -7,3 +7,4 @@ You'll discover how dictionaries offer an alternative to Python lists, and why t
 As you progress, you’ll look at logic, control flow, filtering and loops. These functions work to control decision-making in Python programs and help you to perform more operations with your data, including repeated statements. You’ll finish the course by applying all of your new skills by using hacker statistics to calculate your chances of winning a bet.
 
 Once you’ve completed all of the chapters, you’ll be ready to apply your new skills in your job, new career, or personal project, and be prepared to move onto more advanced Python learning.
+"# Data-Manipulation-with-pandas" 
